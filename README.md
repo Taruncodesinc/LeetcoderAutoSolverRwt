@@ -3,7 +3,7 @@
 1) Works on new dynamic layout only.
 2) Only works on Windows. Do raise a PR if you can solve this problem for mac-os.
 3) Use Responsibly
-4) Last checked and working on 09-07-2024.
+4) Last checked and working on 29-12-2024.
 5) Currently, No Data is being sent to anything external to your system.
 
 # Leetcoder
